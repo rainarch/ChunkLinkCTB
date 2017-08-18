@@ -1,7 +1,9 @@
-ChunkLinkCTB
+ChunkLinkCTB (Chunklink for CTB)
 ============
 
-A tool for extracting chunks from Penn Chinese Treebank (Chen et. al 2006, ACL-poster)
+A tool for extracting chunks from Penn Chinese Treebank (Chen et. al 2006, ACL-poster), that is A CTB version of chunklink.
+
+This tool is designed for the old versions of CTB. For CTB7.0 or higher, it needs some changes.
 
 =============
 Related Publications
