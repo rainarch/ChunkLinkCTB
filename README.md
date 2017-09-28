@@ -5,6 +5,8 @@ A tool for extracting chunks from Penn Chinese Treebank (Chen et. al 2006, ACL-p
 
 This tool is designed for the old versions of CTB. For CTB7.0 or higher, it needs some changes.
 
+宾州中文树库抽取中文组块工具，适用于CTB5.0及以下。
+
 =============
 Related Publications
 
